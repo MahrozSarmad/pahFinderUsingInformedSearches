@@ -774,6 +774,7 @@ class PathfindingApp:
 #  ENTRY POINT
 # ══════════════════════════════════════════════════════════════════
 
+
 if __name__ == "__main__":
     root = tk.Tk()
     root.minsize(980, 640)
