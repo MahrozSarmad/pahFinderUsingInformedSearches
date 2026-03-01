@@ -1,6 +1,6 @@
-# Dynamic Pathfinding Agent — Dependencies
-# All dependencies are part of Python's standard library.
-# No external packages need to be installed via pip.
+## Dynamic Pathfinding Agent — Dependencies
+## All dependencies are part of Python's standard library.
+## No external packages need to be installed via pip.
 #
 # Required Python version: 3.6+
 #
